@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaulerie&label=Profile%20views&color=0e75b6&style=flat" alt="gaulerie" /> </p>
 
-- 🔭 I’m currently working on [Carte](https://github.com/gaulerie/carte)
-
 - 💬 Ask me about **anything!**
 
 - 📫 Contact me on Discord **@un_gaul**
